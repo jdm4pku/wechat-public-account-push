@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '生日', name: '李四', year: '1996', date: '09-31',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+          type: '节日', name: '相识纪念日', year: '2023', date: '10-04',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '宝宝',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'olX526s6iPRuaaPMBFQeun5K63So',
+      id: 'olX526m81jo7LMgMWLohh1SE-LOY',
     }
   ],
 
