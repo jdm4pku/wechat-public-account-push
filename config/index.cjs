@@ -24,14 +24,9 @@ const USER_CONFIG = {
       id: 'olX526m81jo7LMgMWLohh1SE-LOY',
       // id: 'olX526s6iPRuaaPMBFQeun5K63So',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'bRF6INAgn1GbiYeTD1ihVoASdN2AJxJyEFmgjrTfIzw',
+      useTemplateId: 'Lwo5mwKeXhpT8p-zVe4tCvEfm3Fo3tJ40e20DCIEN7U',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-14',
-      festivals: [
-        {
-          type: '节日', name: '相识纪念日', year: '2023', date: '10-04',
-        },
-      ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
